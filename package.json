@@ -28,9 +28,11 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/phase-1-practice-dog-show#readme",
   "dependencies": {
+    "-": "^0.0.1",
     "chai": "^4.2.0",
     "jsdom": "^9.0",
-    "mocha": "5.2.0",
-    "mocha-jsdom": "~1.1.0"
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "~1.1.0",
+    "multi": "^0.1.2"
   }
 }

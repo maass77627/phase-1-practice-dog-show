@@ -1,121 +1,121 @@
 {
   "dogs": [
     {
-      "id": 1,
+      "id": "1",
+      "name": "Baby",
+      "breed": "Scottish Deerhound",
+      "sex": "BOY"
+    },
+    {
+      "id": "2",
       "name": "Baby",
       "breed": "Scottish Deerhound",
       "sex": "girl"
     },
     {
-      "id": 2,
-      "name": "Baby",
-      "breed": "Scottish Deerhound",
-      "sex": "girl"
-    },
-    {
-      "id": 3,
+      "id": "3",
       "name": "Snickers",
       "breed": "Dachshund",
       "sex": "female"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Harvey",
       "breed": "Irish Spaniel",
       "sex": "male"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Baby",
       "breed": "Scottish Deerhound",
       "sex": "girl"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Oreo",
       "breed": "English Springer",
       "sex": "male"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Diamond",
       "breed": "Labrador",
       "sex": "female"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Baby",
       "breed": "Scottish Deerhound",
       "sex": "girl"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Shelby",
       "breed": "Kuvasz",
       "sex": "male"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Patches",
       "breed": "Dingo",
       "sex": "male"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Jasper",
       "breed": "Redbone",
       "sex": "female"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Baby",
       "breed": "Scottish Deerhound",
       "sex": "girl"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Lady",
       "breed": "Mexicanhairless",
       "sex": "female"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Baby",
       "breed": "Scottish Deerhound",
       "sex": "girl"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Pepper",
       "breed": "Westhighland Terrier",
       "sex": "female"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Baby",
       "breed": "Scottish Deerhound",
       "sex": "girl"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Chance",
       "breed": "Flatcoated Retriever",
       "sex": "female"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Chance",
       "breed": "Toy Terrier",
       "sex": "male"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Penny",
       "breed": "Wheaten Terrier",
       "sex": "male"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Coco",
       "breed": "Affenpinscher",
       "sex": "female"
